@@ -19,12 +19,12 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Duc Nguyen"
 title_separator          : ""
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Mechanical Engineering · Rockets · Design"
 name                     : "Duc Nguyen"
 description              : "An undergrad mechanicla engineering student interested in rocketry, rapid prototyping, mechanical design, and the intersection of engineer, art, and science: watchmaking."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ducnguyen-mech.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ducnguyen-mech"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "minhducnguyen.mech@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
